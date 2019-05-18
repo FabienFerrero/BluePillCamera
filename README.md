@@ -24,6 +24,10 @@ https://fr.aliexpress.com/item/RFM95W-RFM95-868MHz-LORA-SX1276-wireless-transcei
 * UCAM3
 https://www.4dsystems.com.au/product/uCAM_III/
 
+# LAYOUT
+
+This project is using the PCB layout from https://github.com/tomtor/STM32-RFM95-PCB
+
 
 # Wiring
 
