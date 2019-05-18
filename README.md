@@ -4,7 +4,7 @@ JPEG Camera with a Blue Pill and LoRa communication
 Version 1.0.0, May, 2019
 Author: Fabien Ferrero
 
-<img src="https://github.com/FabienFerrero/UCA_Board/blob/master/documents/pictures/UCA.jpg">
+<img src="https://github.com/FabienFerrero/BluePillCamera/blob/master/doc/UCAM3.jpg">
 
 
 # Bill Of Material
